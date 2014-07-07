@@ -1,6 +1,0 @@
-c:\users\bwaval\documents\visual studio 2012\Projects\Practice\Practice\bin\Debug\Practice.exe.config
-c:\users\bwaval\documents\visual studio 2012\Projects\Practice\Practice\bin\Debug\Practice.exe
-c:\users\bwaval\documents\visual studio 2012\Projects\Practice\Practice\bin\Debug\Practice.pdb
-c:\users\bwaval\documents\visual studio 2012\Projects\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
-c:\users\bwaval\documents\visual studio 2012\Projects\Practice\Practice\obj\Debug\Practice.exe
-c:\users\bwaval\documents\visual studio 2012\Projects\Practice\Practice\obj\Debug\Practice.pdb
